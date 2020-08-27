@@ -1,3 +1,7 @@
+## 0.87.2 (2020-08-07)
+
+* update json for CVE-2020-10663  [David Dollar]
+
 ## 0.87.1 (2020-04-02)
 
 * update rake for CVE-2020-8130  [David Dollar]
